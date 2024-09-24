@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Assignment</string>
+    <string name="title_txt">This is the title generated</string>
+    <string name="desc_txt">Lorpum ipsum dolor sit amet, consectetur adipiscing elit. Donec faucibus, sapien vel lacinia interdum, metus nunc interdum metus, eu eleifend mauris orci in enim. Sed eget mi sem.</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+</resources>
